@@ -7,8 +7,9 @@
     .body{
         display: flex;
         flex-direction: column;
+        justify-content: center;
     }
-
+}
 
 body{
     background-color: blue;
@@ -149,4 +150,3 @@ footer{
     margin-right: 40px;
 }
 
-}
