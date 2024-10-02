@@ -8,7 +8,7 @@
         display: flex;
         flex-direction: column;
     }
-}
+
 
 body{
     background-color: blue;
@@ -26,6 +26,7 @@ header{
     font-size: 18pt;
     position: relative;
     bottom: 200px;
+    margin-left: 10px;
 }
 
 .i1{
@@ -127,7 +128,7 @@ header{
     display: flex;
     flex-direction: column;
     align-items: center;
-    
+    margin-left: 20px;
 }
 
 footer{
@@ -141,4 +142,6 @@ footer{
 
 .imgbolo{
     margin-right: 40px;
+}
+
 }
