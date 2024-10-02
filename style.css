@@ -25,7 +25,6 @@ header{
 .textinho{
     font-size: 18pt;
     position: relative;
-    bottom: 200px;
     margin-left: 10px;
 }
 
@@ -53,6 +52,11 @@ header{
     position: relative;
     right: 200px;
     bottom: 140px;
+}
+
+.gg{
+    position: relative;
+    bottom: 100px;
 }
 
 .i4{
@@ -128,7 +132,8 @@ header{
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-left: 20px;
+    padding: 30px;
+    
 }
 
 footer{
